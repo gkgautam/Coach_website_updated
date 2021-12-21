@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Coach_website_updated/static/css/main.b0ced917.chunk.css",
+    "main.js": "/Coach_website_updated/static/js/main.ddb85113.chunk.js",
+    "main.js.map": "/Coach_website_updated/static/js/main.ddb85113.chunk.js.map",
+    "runtime-main.js": "/Coach_website_updated/static/js/runtime-main.6ab8876e.js",
+    "runtime-main.js.map": "/Coach_website_updated/static/js/runtime-main.6ab8876e.js.map",
+    "static/css/2.943527f3.chunk.css": "/Coach_website_updated/static/css/2.943527f3.chunk.css",
+    "static/js/2.050c5ec4.chunk.js": "/Coach_website_updated/static/js/2.050c5ec4.chunk.js",
+    "static/js/2.050c5ec4.chunk.js.map": "/Coach_website_updated/static/js/2.050c5ec4.chunk.js.map",
+    "index.html": "/Coach_website_updated/index.html",
+    "static/css/2.943527f3.chunk.css.map": "/Coach_website_updated/static/css/2.943527f3.chunk.css.map",
+    "static/css/main.b0ced917.chunk.css.map": "/Coach_website_updated/static/css/main.b0ced917.chunk.css.map",
+    "static/js/2.050c5ec4.chunk.js.LICENSE.txt": "/Coach_website_updated/static/js/2.050c5ec4.chunk.js.LICENSE.txt",
+    "static/media/icon-mobile-bag.4d06cada.svg": "/Coach_website_updated/static/media/icon-mobile-bag.4d06cada.svg",
+    "static/media/icon-mobile-locator.3bb1f1da.svg": "/Coach_website_updated/static/media/icon-mobile-locator.3bb1f1da.svg",
+    "static/media/icon-mobile-search.cb9a5329.svg": "/Coach_website_updated/static/media/icon-mobile-search.cb9a5329.svg",
+    "static/media/icon-utility-account-login.ffe6b336.svg": "/Coach_website_updated/static/media/icon-utility-account-login.ffe6b336.svg",
+    "static/media/icon-utility-favorite-default.eed2d457.svg": "/Coach_website_updated/static/media/icon-utility-favorite-default.eed2d457.svg",
+    "static/media/icon-utility-favorite-filled.b1e6ba28.svg": "/Coach_website_updated/static/media/icon-utility-favorite-filled.b1e6ba28.svg",
+    "static/media/usa.fbe6a622.svg": "/Coach_website_updated/static/media/usa.fbe6a622.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ab8876e.js",
+    "static/css/2.943527f3.chunk.css",
+    "static/js/2.050c5ec4.chunk.js",
+    "static/css/main.b0ced917.chunk.css",
+    "static/js/main.ddb85113.chunk.js"
+  ]
+}
